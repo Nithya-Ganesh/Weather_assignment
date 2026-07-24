@@ -29,7 +29,8 @@ This project outlines the end-to-end process of creating a React/Vite-based weat
 └── README.md            # Setup and deployment documentation
 
 ---
-### Deployment Pipeline Instructions
+
+## Deployment Pipeline Instructions
 ## Step 1: Build in Google AI Studio
 Open Google AI Studio App Build.
 Select or prompt the Weather Intelligence App prompt.
