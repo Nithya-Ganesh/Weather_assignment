@@ -1,0 +1,6 @@
+{
+  "name": "Weather & City Forecast Planner",
+  "description": "Interactive weather forecast app with Open-Meteo real-time data, 7-day forecast, hourly trends, air quality, and outdoor activity planning recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
